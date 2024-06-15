@@ -1,0 +1,15 @@
+/* hide_icons.css */
+#MainMenu {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
+header .decoration {
+    display: none;
+}
+
+#GithubIcon {
+    visibility: hidden;
+  }
+  
